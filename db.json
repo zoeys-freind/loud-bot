@@ -1,0 +1,309 @@
+{
+    "serverdata": {
+        "1146911738093113417": {
+            "warns": {},
+            "name": "Goober's hell hole",
+            "id": 1146911738093113417,
+            "users": {
+                "1151951255229444237": {
+                    "username": "loud bot",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "155149108183695360": {
+                    "username": "Dyno",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "282859044593598464": {
+                    "username": "ProBot \u2728",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "437618149505105920": {
+                    "username": "EasyPoll",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "550613223733329920": {
+                    "username": "Reaction Roles",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "996534605828083824": {
+                    "username": "WOMBOT",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1014524739059982356": {
+                    "username": "zoeys_freind",
+                    "xp": 108,
+                    "level": 11,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1088723351234687056": {
+                    "username": "loudgamingofficial",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1092377828294656040": {
+                    "username": "oceanstxrz",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1158429642454220820": {
+                    "username": "RemoteGoober",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "906569645027385454": {
+                    "username": "tormenter",
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                }
+            },
+            "bl": [],
+            "config": {
+                "prefix": "g!",
+                "modrole": null,
+                "adminrole": null,
+                "color": "#000000"
+            }
+        },
+        "1156094747836956712": {
+            "warns": {},
+            "name": "IIFPF",
+            "id": 1156094747836956712,
+            "users": {
+                "1151951255229444237": {
+                    "username": "loud bot",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "996534605828083824": {
+                    "username": "WOMBOT",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1014524739059982356": {
+                    "username": "zoeys_freind",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1158429642454220820": {
+                    "username": "RemoteGoober",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                }
+            },
+            "bl": [],
+            "config": {
+                "prefix": "g!",
+                "modrole": null,
+                "adminrole": null,
+                "color": "#000000"
+            }
+        },
+        "1191789140568715264": {
+            "warns": {},
+            "name": "The Rizzler",
+            "id": 1191789140568715264,
+            "users": {
+                "1151951255229444237": {
+                    "username": "loud bot",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1014524739059982356": {
+                    "username": "zoeys_freind",
+                    "xp": 11,
+                    "level": 4,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1189364361077198988": {
+                    "username": "exv2209",
+                    "xp": 2,
+                    "level": 1,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                }
+            },
+            "bl": [],
+            "config": {
+                "prefix": "g!",
+                "modrole": null,
+                "adminrole": null,
+                "color": "#000000"
+            }
+        },
+        "1188191539218894898": {
+            "warns": {},
+            "name": 1188191539218894898,
+            "id": 0,
+            "users": {
+                "1014524739059982356": {
+                    "username": "zoeys_freind",
+                    "level": 0,
+                    "warns": [],
+                    "mod": true,
+                    "admin": true
+                },
+                "1188192254754566204": {
+                    "username": "Loud bot test app",
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1151951255229444237": {
+                    "username": "loud bot",
+                    "level": 0,
+                    "xp": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                }
+            },
+            "bl": [],
+            "config": {
+                "prefix": "g!",
+                "modrole": null,
+                "adminrole": null,
+                "color": "#000000"
+            }
+        },
+        "1232444513205883103": {
+            "name": "loud inc....2",
+            "id": 1232444513205883103,
+            "users": {
+                "1151951255229444237": {
+                    "username": "loud bot",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1014524739059982356": {
+                    "username": "zoeys_freind",
+                    "xp": 694,
+                    "level": 27,
+                    "warns": [],
+                    "mod": null,
+                    "admin": true
+                },
+                "1088723351234687056": {
+                    "username": "loudgamingofficial",
+                    "xp": 289,
+                    "level": 17,
+                    "warns": [],
+                    "mod": true,
+                    "admin": true
+                },
+                "282859044593598464": {
+                    "username": "ProBot \u2728",
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "906569645027385454": {
+                    "username": "tormenter",
+                    "level": 27,
+                    "xp": 709,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                }
+            },
+            "bl": [],
+            "config": {
+                "prefix": "g!",
+                "modrole": "1242318008240705618",
+                "adminrole": "1242242897894576128",
+                "color": "#aa0000"
+            },
+            "warns": []
+        },
+        "1250430439370395730": {
+            "warns": [],
+            "name": "Loud Bot Support",
+            "id": 1250430439370395730,
+            "users": {
+                "1151951255229444237": {
+                    "username": "loud bot",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                },
+                "1014524739059982356": {
+                    "username": "zoeys_freind",
+                    "xp": 0,
+                    "level": 0,
+                    "warns": [],
+                    "mod": false,
+                    "admin": false
+                }
+            },
+            "bl": [],
+            "config": {
+                "prefix": "g!",
+                "modrole": null,
+                "adminrole": null,
+                "color": "#000000"
+            }
+        }
+    },
+    "userdata": {}
+}
